@@ -8,7 +8,7 @@ SNPE 提供全面的工具集，方便开发者将模型部署到 Snapdragon 设
 
 see https://github.com/lix19937/history/blob/main/snpe/    
 
-
+https://zhuanlan.zhihu.com/p/641013796?utm_id=0
 
 https://blog.csdn.net/dubochao_xinxi/article/details/135501986
 
