@@ -5,6 +5,7 @@ QNN 主要作为一个底层的神经网络执行引擎，专注于性能优化�
 
 SNPE 提供全面的工具集，方便开发者将模型部署到 Snapdragon 设备上，并在多种硬件加速器上运行。
 
+https://docs.qualcomm.com/bundle/publicresource/topics/80-63442-50/setup.html
 
 see https://github.com/lix19937/history/blob/main/snpe/    
 
