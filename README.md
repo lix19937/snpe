@@ -7,6 +7,7 @@ SNPE 提供全面的工具集，方便开发者将模型部署到 Snapdragon 设
 
 > Qualcomm® Neural Processing SDK is also referred to as Snapdragon Neural Processing Engine (SNPE) in the source code and documentation.
 
+> Qualcomm® AI Engine Direct is also referred to as Qualcomm Neural Network (QNN) in the source code and documentation.   
 
 + nn sdk下载    
 https://www.qualcomm.com/developer/software/neural-processing-sdk-for-ai
