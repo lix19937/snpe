@@ -15,6 +15,8 @@ https://www.qualcomm.com/developer/software/neural-processing-sdk-for-ai
 + 版本历史   
 https://docs.qualcomm.com/bundle/publicresource/topics/80-63442-2/revision_history.html  
 
++ qnn   
+https://docs.qualcomm.com/bundle/publicresource/topics/80-63442-50/tutorial2.html  
 
 vgg onnx   
 https://docs.qualcomm.com/bundle/publicresource/topics/80-63442-2/tutorial_onnx.html
