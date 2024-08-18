@@ -21,6 +21,7 @@ https://docs.qualcomm.com/bundle/publicresource/topics/80-63442-50/tutorial2.htm
 vgg onnx   
 https://docs.qualcomm.com/bundle/publicresource/topics/80-63442-2/tutorial_onnx.html
 
+![product-package](https://github.com/user-attachments/assets/29b4f899-f61a-4253-ac0d-77f4e846f30b)
 
 
 https://docs.qualcomm.com/bundle/publicresource/topics/80-63442-50/setup.html
